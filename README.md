@@ -29,16 +29,6 @@
 - AI/ML: NumPy, Pandas, scikit-learn (learning), LLM APIs (OpenAI/Ollama/etc.), lightweight agents (experimenting)  
 - Tooling: Git/GitHub, VS Code / IntelliJ, CLI, virtualenv/venv
 
----
-
-###  Featured Starter Projects
-- Java Basics Demos — small, runnable examples (I/O, control flow, OOP)
-- Python Practice — CLI scripts for parsing, automation, and data wrangling
-- AI Experiments — prompt engineering notes, LLM calls, early agent prototypes
-
-> Each project has a README with how to run and what I learned.
-
----
 
 ### Roadmap
 - Java (SE path): OOP → Collections → Exceptions/IO → Concurrency (intro) → Design patterns
@@ -47,24 +37,6 @@
 - ML/AI: data prep → baseline models → evaluation → LLM APIs → simple RAG → agent frameworks
 - Project Focus: ML/AI utilities, GenAI helpers, and agent-based automations
 
----
-
----
-
-### Code Style
-- Java: readable OOP, small methods, clear interfaces
-- Python: standard library first, simple → structured, type hints gradually
-- Tests: start small, add where helpful, aim for reproducible runs
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nightmareofai&theme=default" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nightmareofai&show_icons=true&hide_title=true" alt="stats" />
-</p>
 
 
 <!-- Optional Badges (swap with your real links) -->
