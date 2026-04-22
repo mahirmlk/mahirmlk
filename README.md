@@ -1,11 +1,3 @@
-
-
-<p align="center">
-  <img src="Pixel-art.gif" alt="Pixel Art Animation" width="1000" />
-</p>
-
-
-
 # Hello, I'm Mahir
 
 
@@ -26,15 +18,6 @@ Interested in ideas that hold up under scrutiny, not just in theory but in pract
 
 <br>
 
-## Tech Stack
-
-![Stack](https://skillicons.dev/icons?i=python,fastapi,pytorch,sklearn,mongodb,postgres,redis,docker,aws,git,github)
-
-## Systems
-
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-purple?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black)
 
 <br>
 
