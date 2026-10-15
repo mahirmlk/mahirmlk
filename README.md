@@ -1,10 +1,12 @@
 # hey, I'm mahir.
 
-i like AI, but i'm just as interested in everything around the model: how agents use tools, how systems make decisions, where things break, and what stops a bad decision from turning into a bigger problem.
+just an ai engineer with a thing for understanding what makes systems work.
 
-most of my time goes into building things, pulling apart interesting ideas, and figuring out how to make them actually work.
+working across ml, llms, and ai agents, and full-stack web apps with a lot of curiosity around how models learn, how agents reason, and how all of that fits into software.
 
-currently somewhere between agent engineering, ml experiments, and one more architecture rabbit hole.
+because integrating models was not enough, so diving deep into deep learning, and rl stuff to take datasets and turn them into working models. also looking forward to do open-source contributions in relevant field and build some projects too.
+
+
 
 [portfolio](https://mahirmalik.in) · [linkedin](https://www.linkedin.com/in/mahir-malik) · [x](https://x.com/mahirmllk) · [kaggle](https://www.kaggle.com/mahirmlk)
 
