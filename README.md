@@ -1,34 +1,56 @@
-# hey, I'm mahir.
+<p align="center">
+  <img src="./profile-header.svg" width="100%" alt="Mahir Malik — building systems that make sense, in crimson terminal-inspired artwork" />
+</p>
 
-just an ai engineer with a thing for understanding what makes systems work.
+<table>
+  <tr>
+    <td width="68%">
+      <h1>hey, i'm mahir.</h1>
+      <p>just an ai engineer with a thing for understanding what makes systems work.</p>
+      <p>working across ml, llms, and ai agents, and full-stack web apps with a lot of curiosity around how models learn, how agents reason, and how all of that fits into software.</p>
+      <p>because integrating models was not enough, so diving deep into deep learning, and rl stuff to take datasets and turn them into working models. also looking forward to do open-source contributions in relevant field and build some projects too.</p>
+    </td>
+    <td width="32%">
+      <h3>NOW / BUILDING</h3>
+      <p><code>AI ENGINEERING</code></p>
+      <p><code>LEARNING SYSTEMS</code></p>
+      <p><code>AGENTIC SOFTWARE</code></p>
+      <p><a href="https://mahirmalik.in">mahirmalik.in ↗</a></p>
+    </td>
+  </tr>
+</table>
 
-working across ml, llms, and ai agents, and full-stack web apps with a lot of curiosity around how models learn, how agents reason, and how all of that fits into software.
-
-because integrating models was not enough, so diving deep into deep learning, and rl stuff to take datasets and turn them into working models. also looking forward to do open-source contributions in relevant field and build some projects too.
-
-
-
-[portfolio](https://mahirmalik.in) · [linkedin](https://www.linkedin.com/in/mahir-malik) · [x](https://x.com/mahirmllk) · [kaggle](https://www.kaggle.com/mahirmlk)
+<p align="center">
+  <a href="https://mahirmalik.in">PORTFOLIO</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/mahir-malik">LINKEDIN</a> &nbsp;·&nbsp;
+  <a href="https://x.com/mahirmllk">X</a> &nbsp;·&nbsp;
+  <a href="https://www.kaggle.com/mahirmlk">KAGGLE</a>
+</p>
 
 ---
 
-### stuff i'm building
+### 01 / stuff i'm building
 
-**[Sellable](https://github.com/mahirmlk/sellable)**
-
-Agentic commerce, with actual rules around the money. AI agents can discover products, negotiate prices, request consent, and complete purchases. Spending limits, policy checks, payment verification, and audit trails don't get handed over to the LLM.
-
-`Python` `FastAPI` `LangGraph` `Next.js` `Supabase` `PostgreSQL` `Razorpay`
-
-**[Helion](https://mahirmalik.in/work)** · in progress
-
-An agent harness for the terminal and desktop. Run agents, follow their execution, steer them mid-run, and approve tool calls without losing sight of what's happening.
-
-`TypeScript` `Tauri` `React` `Ink`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/mahirmlk/sellable">SELLABLE</a></strong><br />
+      <sub>AGENTIC COMMERCE / IN PROGRESS</sub>
+      <p>Agentic commerce, with actual rules around the money. AI agents can discover products, negotiate prices, request consent, and complete purchases. Spending limits, policy checks, payment verification, and audit trails don't get handed over to the LLM.</p>
+      <code>Python</code> <code>FastAPI</code> <code>LangGraph</code> <code>Next.js</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Razorpay</code>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://mahirmalik.in/work">HELION</a></strong><br />
+      <sub>TERMINAL + DESKTOP AGENT HARNESS / IN PROGRESS</sub>
+      <p>An agent harness for the terminal and desktop. Run agents, follow their execution, steer them mid-run, and approve tool calls without losing sight of what's happening.</p>
+      <code>TypeScript</code> <code>Tauri</code> <code>React</code> <code>Ink</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### things i keep digging into
+### 02 / things i keep digging into
 
 - **agentic systems:** tool use, orchestration, memory, evaluation, and harness engineering.
 - **distributed systems:** concurrency, state, communication, failure handling, and system design.
@@ -40,7 +62,7 @@ I like understanding the internals, testing assumptions, and building small impl
 
 ---
 
-### my stack
+### 03 / my stack
 
 the tools i reach for across ai, backend, and infrastructure.
 
@@ -207,13 +229,12 @@ the tools i reach for across ai, backend, and infrastructure.
 
 </details>
 
-
 ---
 
-### find me elsewhere
+### 04 / find me elsewhere
 
 [Portfolio](https://mahirmalik.in) · [GitHub](https://github.com/mahirmlk) · [LinkedIn](https://www.linkedin.com/in/mahir-malik) · [X](https://x.com/mahirmllk) · [Kaggle](https://www.kaggle.com/mahirmlk) · [Paper implementations](https://papers.mahirmalik.in/)
 
 For work, collaborations, or an interesting technical work: **[mahirmalikx@gmail.com](mailto:mahirmalikx@gmail.com)**
 
-*build it, break it, understand it, repeat.*
+<p align="center"><sub>build it, break it, understand it, repeat.</sub></p>
