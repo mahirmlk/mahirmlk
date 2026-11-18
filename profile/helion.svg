@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 258" role="img" aria-labelledby="t"><title id="t">Helion — An agent harness for the terminal and desktop. Run agents, follow their execution, steer them mid-run, and approve tool calls without losing sight of what's happening.</title>
+<style>.panel{fill:#181818}.bar{fill:#202020}.rule{stroke:#343434}.ink{fill:#f2f2f2}.muted{fill:#b4b4b4}.accent{fill:#f08170}text{font:12px monospace}.title{font:28px Arial,sans-serif}.body{font:14px Arial,sans-serif}@media(prefers-color-scheme:light){.panel{fill:#f4f4f0}.bar{fill:#fff}.rule{stroke:#c9c9c2}.ink{fill:#181818}.muted{fill:#555}.accent{fill:#90372b}}</style>
+<rect width="440" height="258" class="panel"/><rect width="440" height="36" class="bar"/><path d="M0 36H440M0 174H440M0 226H440" class="rule"/><rect x=".5" y=".5" width="439" height="257" fill="none" class="rule"/>
+<text x="14" y="23" class="ink">helion</text><text x="425" y="23" text-anchor="end" class="muted">in progress</text><text x="17" y="73" class="title ink">Helion</text>
+<text x="17" y="97" class="body ink">An agent harness for the terminal and desktop. Run</text>
+<text x="17" y="114" class="body ink">agents, follow their execution, steer them mid-run,</text>
+<text x="17" y="131" class="body ink">and approve tool calls without losing sight of</text>
+<text x="17" y="148" class="body ink">what's happening.</text>
+<text x="17" y="196" class="muted">TypeScript · Tauri · React · Ink</text><text x="17" y="214" class="muted"></text><text x="423" y="247" text-anchor="end" class="accent">view project ↗</text></svg>
