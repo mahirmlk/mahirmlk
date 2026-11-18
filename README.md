@@ -18,6 +18,8 @@
 
 </details>
 
+<a href="mailto:mahirmalikx@gmail.com"><img src="./profile/contact.svg" width="100%" alt="For work and collaborations, email mahirmalikx@gmail.com."></a>
+
 <a href="https://mahirmalik.in"><img src="./profile/social-portfolio.svg" width="50%" alt="Portfolio"></a><a href="https://github.com/mahirmlk"><img src="./profile/social-github.svg" width="50%" alt="GitHub"></a>
 
 <a href="https://www.linkedin.com/in/mahir-malik"><img src="./profile/social-linkedin.svg" width="50%" alt="LinkedIn"></a><a href="https://x.com/mahirmllk"><img src="./profile/social-x.svg" width="50%" alt="X"></a>
@@ -28,4 +30,3 @@
 
 <a href="https://www.reddit.com/user/nightmareofai/"><img src="./profile/social-reddit.svg" width="50%" alt="Reddit"></a><a href="https://papers.mahirmalik.in/"><img src="./profile/social-paper-implementations.svg" width="50%" alt="Paper implementations"></a>
 
-<a href="mailto:mahirmalikx@gmail.com"><img src="./profile/contact.svg" width="100%" alt="For work, collaborations, or an interesting technical work, email mahirmalikx@gmail.com. build it, break it, understand it, repeat."></a>
