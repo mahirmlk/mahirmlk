@@ -3,7 +3,7 @@
   <img src="./profile-header.svg?v=panels" width="100%" alt="Mahir Malik, AI engineer. Interested in agentic systems, reinforcement learning and AI security.">
 </picture>
 
-<br><br>
+<br>
 
 <a href="https://github.com/mahirmlk/sellable"><img src="./profile/sellable.svg" width="50%" alt="Sellable — Agentic commerce, with actual rules around the money. AI agents can discover products, negotiate prices, request consent, and complete purchases. Spending limits, policy checks, payment verification, and audit trails don't get handed over to the LLM."></a><a href="https://mahirmalik.in/work"><img src="./profile/helion.svg" width="50%" alt="Helion — An agent harness for the terminal and desktop. Run agents, follow their execution, steer them mid-run, and approve tool calls without losing sight of what's happening."></a>
 
